@@ -5,4 +5,4 @@ if(r>='a')
 elseif(r>='A")
  print("alphabets:")
 else
- print("not alphabets:")
+ print("No:")
